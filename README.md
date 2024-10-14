@@ -40,7 +40,7 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 ## Project Test
 
-
+![ascii_art_generator_test](https://github.com/user-attachments/assets/625ecbe7-300a-4d75-9de0-c7d062f6275d)
 
 ## License
 
