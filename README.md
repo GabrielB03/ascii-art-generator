@@ -1,6 +1,6 @@
 # ASCII Art Generator
 
-An ASCII Art Generator project that allows users to create ASCII art from text input. Users can choose from various font styles and color options to customize their ASCII art creations.
+An ASCII Art Generator project that allows users to create ASCII art from text input. Users can choose from various font styles to customize their ASCII art creations.
 
 ## Features
 
