@@ -14,8 +14,6 @@ An ASCII Art Generator project that allows users to create ASCII art from text i
 
 - Python 3.x
 - PyFiglet library
-- Termcolor library
-- Tkinter library
 
 ### Instalation
 
